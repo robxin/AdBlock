@@ -1,0 +1,16 @@
+# Host file to block Synology
+# Title: Synology Blacklist
+# Expires: 1 days
+# Hosts contributed by Anudeep <anudeep@protonmail.com>
+# Domain count: 42,284
+# ===================================================================
+0.0.0.0 cloudsync-tw.synology.com
+0.0.0.0 checkip.synology.com
+0.0.0.0 checkipv6.synology.com
+0.0.0.0 help.synology.com
+0.0.0.0 synology.com
+0.0.0.0 account.synology.com
+0.0.0.0 sns.synology.com
+0.0.0.0 dataautoupdate7.synology.com
+0.0.0.0 pkgupdate7.synology.com
+0.0.0.0 global.download.synology.com
